@@ -1,0 +1,13 @@
+"Bullet 9 mm" (https://skfb.ly/6QSxx) by Y2JHBK is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+https://assetstore.unity.com/packages/3d/props/guns/guns-pack-low-poly-guns-collection-192553
+
+TODO:
+fix bullet angle issue
+fix faded out effect issue
+set up pause/continue
+set up points
+add enemy attack animation
+fix script for collecting enemy plushies
+add more plushies
+implement alternative weapons
+implement augments
